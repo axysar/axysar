@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=980&lines=Akshay+Sarode;Creative+Technologist;Robotics+%C3%97+XR+%C3%97+Interactive+Art" alt="Animated name" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=980&lines=Creative+Technologist;Robotics+%C3%97+XR+%C3%97+Interactive+Art" alt="Animated name" />
 
 ### Robotics × XR × Interactive Art · Creative Technologist
 
