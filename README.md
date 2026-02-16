@@ -5,11 +5,15 @@
 <!-- Optional banner image: add /assets/banner.jpg in the repo and uncomment the next line -->
 <!-- <img src="assets/banner.jpg" alt="Akshay Sarode banner" width="100%" /> -->
 
-# Akshay Sarode 🤖
+# Akshay Sarode
 ### Robotics × XR × Interactive Art · Creative Technologist
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1300&color=6AE7D8&center=true&vCenter=true&width=980&lines=I+build+systems+that+feel+alive.;Digital+Twins+%C3%97+WebXR+%C3%97+Computer+Vision;Embedded+Sensing+%C3%97+Real-time+Pipelines;Building+YugmaXR+and+learning+sitar." alt="Typing intro" />
+
+<br/>
+
 I build systems that feel alive ✨  
-Digital twins, WebXR collaboration, computer vision, embedded sensing, and performance-driven real-time experiences.
+Digital twins, WebXR collaboration, computer vision, embedded sensing, and real-time experiences with rhythm.
 
 <a href="https://akshaysarode.com" target="_blank"><b>Website</b></a> ·
 <a href="https://axysar.github.io/" target="_blank"><b>Portfolio</b></a> ·
@@ -32,6 +36,22 @@ Digital twins, WebXR collaboration, computer vision, embedded sensing, and perfo
 
 ## ⚡ Robotics precision. XR presence. Interactive experiences.
 Mechanical engineer turned roboticist in Sweden — building **digital twins**, **WebXR collaboration**, **computer vision**, **embedded systems**, and installations that connect **motion, music, and light**.
+
+---
+
+## 🖼️ Live snapshots
+
+<div align="center">
+  <a href="https://akshaysarode.com/work/yugmaxr-platform/" target="_blank">
+    <img src="https://akshaysarode.com/images/projects/xr-industrial-training.png" alt="YugmaXR Web-Based XR Platform" width="31%" />
+  </a>
+  <a href="https://akshaysarode.com/work/swedish-laundry-room/" target="_blank">
+    <img src="https://akshaysarode.com/images/projects/swedish-laundry-room.png" alt="The Swedish Laundry Room" width="31%" />
+  </a>
+  <a href="https://akshaysarode.com/work/virtual-production-system/" target="_blank">
+    <img src="https://akshaysarode.com/images/projects/virtual-production-system.png" alt="Virtual Production System" width="31%" />
+  </a>
+</div>
 
 ---
 
