@@ -5,14 +5,21 @@
 <!-- Optional banner image: add /assets/banner.jpg in the repo and uncomment the next line -->
 <!-- <img src="assets/banner.jpg" alt="Akshay Sarode banner" width="100%" /> -->
 
-# Akshay Sarode
-### Robotics × XR × Interactive Art · Creative Technologist
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1300&color=6AE7D8&center=true&vCenter=true&width=980&lines=I+build+systems+that+feel+alive.;Digital+Twins+%C3%97+WebXR+%C3%97+Computer+Vision;Embedded+Sensing+%C3%97+Real-time+Pipelines;Building+YugmaXR+and+learning+sitar." alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,50:155e75,100:7c2d12&text=Akshay%20Sarode&fontAlignY=35&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Akshay Sarode banner" />
 
 <br/>
 
-I build systems that feel alive ✨  
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=980&lines=Akshay+Sarode;Creative+Technologist;Robotics+%C3%97+XR+%C3%97+Interactive+Art" alt="Animated name" />
+
+### Robotics × XR × Interactive Art · Creative Technologist
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2300&pause=900&color=6AE7D8&center=true&vCenter=true&repeat=true&width=980&lines=I+build+systems+that+feel+alive.;Digital+Twins+%C3%97+WebXR+%C3%97+Computer+Vision;Embedded+Sensing+%C3%97+Real-time+Pipelines;Building+YugmaXR+and+learning+sitar." alt="Typing intro" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=2000&pause=700&color=9FE7FF&center=true&vCenter=true&repeat=true&width=980&lines=Interactive+Art+Installations;Spatial+Collaboration+for+Remote+Teams;Vision-driven+Industrial+Systems;Real-time+Pipelines+with+Rhythm" alt="Typing specialties" />
+
+<br/>
+
+I build systems that feel alive ✨ 🎛️ 🎨 🥽  
 Digital twins, WebXR collaboration, computer vision, embedded sensing, and real-time experiences with rhythm.
 
 <a href="https://akshaysarode.com" target="_blank"><b>Website</b></a> ·
@@ -21,6 +28,12 @@ Digital twins, WebXR collaboration, computer vision, embedded sensing, and real-
 <a href="https://www.linkedin.com/in/akshay-sarode/"><b>LinkedIn</b></a> ·
 <a href="https://www.instagram.com/akshaysarode/"><b>Instagram</b></a> ·
 <a href="https://x.com/AkshaySaro32394"><b>X</b></a>
+
+<br/>
+
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=axysar&style=for-the-badge&color=111111&label=Profile+Views" />
+<img alt="Location Sweden" src="https://img.shields.io/badge/Location-Sweden-111?style=for-the-badge" />
+<img alt="Now Building YugmaXR" src="https://img.shields.io/badge/Now-Building%20YugmaXR-111?style=for-the-badge" />
 
 <br/>
 
@@ -51,6 +64,19 @@ Mechanical engineer turned roboticist in Sweden — building **digital twins**, 
   <a href="https://akshaysarode.com/work/virtual-production-system/" target="_blank">
     <img src="https://akshaysarode.com/images/projects/virtual-production-system.png" alt="Virtual Production System" width="31%" />
   </a>
+</div>
+
+---
+
+## 📈 Live GitHub pulse
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axysar&show_icons=true&hide_title=true&rank_icon=github&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axysar&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axysar&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" width="98%" />
 </div>
 
 ---
