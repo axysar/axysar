@@ -5,13 +5,14 @@
 <!-- Optional banner image: add /assets/banner.jpg in the repo and uncomment the next line -->
 <!-- <img src="assets/banner.jpg" alt="Akshay Sarode banner" width="100%" /> -->
 
-# Akshay Sarode
+# Akshay Sarode 🤖
 ### Robotics × XR × Interactive Art · Creative Technologist
 
-I build systems that feel alive — digital twins, WebXR collaboration, computer vision, embedded sensing,
-and performance-driven real-time experiences.
+I build systems that feel alive ✨  
+Digital twins, WebXR collaboration, computer vision, embedded sensing, and performance-driven real-time experiences.
 
 <a href="https://akshaysarode.com" target="_blank"><b>Website</b></a> ·
+<a href="https://axysar.github.io/" target="_blank"><b>Portfolio</b></a> ·
 <a href="mailto:akshay@akshaysarode.com"><b>Email</b></a> ·
 <a href="https://www.linkedin.com/in/akshay-sarode/"><b>LinkedIn</b></a> ·
 <a href="https://www.instagram.com/akshaysarode/"><b>Instagram</b></a> ·
@@ -29,48 +30,61 @@ and performance-driven real-time experiences.
 
 ---
 
-## Robotics precision. XR presence. Interactive experiences.
+## ⚡ Robotics precision. XR presence. Interactive experiences.
 Mechanical engineer turned roboticist in Sweden — building **digital twins**, **WebXR collaboration**, **computer vision**, **embedded systems**, and installations that connect **motion, music, and light**.
 
 ---
 
-## Selected work — systems you can feel
-- **YugmaXR — Web‑Based XR Platform (2025)**  
+## 🎯 Selected Work — systems you can feel
+- 🥽 **YugmaXR — Web‑Based XR Platform (2025)**  
   Full‑featured WebXR collaboration platform for real‑time 3D design review, digital twins, and industrial connectivity.
+  [View on akshaysarode.com](https://akshaysarode.com/work/yugmaxr-platform/)
 
-- **Antaraal Studio — The Swedish Laundry Room (2025)**  
+- 🎼 **Antaraal Studio — The Swedish Laundry Room (2025)**  
   Immersive art + music experiment transforming the familiar laundry room into a portal for memory, identity, and reflection.
+  [View on akshaysarode.com](https://akshaysarode.com/work/swedish-laundry-room/)
 
-- **Antaraal Studio — Virtual Production System (2024)**  
+- 🎥 **Antaraal Studio — Virtual Production System (2024)**  
   Real‑time camera tracking using **Unreal Engine 5** + **HTC Vive Tracker** mounted on a physical camera.
+  [View on akshaysarode.com](https://akshaysarode.com/work/virtual-production-system/)
 
-- **YugmaXR — AI Factory Layout Planner (2024)**  
+- 🏭 **YugmaXR — AI Factory Layout Planner (2024)**  
   AI‑powered factory layout optimization integrated into the YugmaXR platform.
+  [View on akshaysarode.com](https://akshaysarode.com/work/ai-factory-layout-planner/)
 
-- **YugmaXR — WebXR Design Review Room (2024)**  
+- 🧠 **YugmaXR — WebXR Design Review Room (2024)**  
   Immersive design review environment for remote team collaboration.
+  [View on akshaysarode.com](https://akshaysarode.com/work/webxr-design-review/)
 
-- **Anilata AB — Robotics Software Architecture Toolkit (2024)**  
+- 🛠️ **Anilata AB — Robotics Software Architecture Toolkit (2024)**  
   Agent‑based software architecture for flexible manufacturing with role‑based resource allocation.
-
-> Tip: Replace any project title with a link to a repo or case-study page if you have it.
+  [View on akshaysarode.com](https://akshaysarode.com/work/robotics-software-toolkit/)
 
 ---
 
-## Companies
+## 🌐 Explore AkshaySarode.com
+- [🎬 Work](https://akshaysarode.com/work/)
+- [🏢 Companies](https://akshaysarode.com/companies/)
+- [👤 About](https://akshaysarode.com/about/)
+- [🧭 Now](https://akshaysarode.com/now/)
+- [✉️ Contact](https://akshaysarode.com/contact/)
+
+---
+
+## 🏢 Companies
 - **Anilata AB** — engineering AI/XR consulting
 - **YugmaXR** — web‑based 3D collaboration for design review & digital twins
 - **Antaraal Studio** — interactive experiences
 
 ---
 
-## Now
+## 🎵 Now
 **Building YugmaXR and learning sitar.**  
 Focused on spatial collaboration workflows, real‑time pipelines, and daily Indian classical music — because systems should have rhythm.
 
 ---
 
-## Pinned Repos To Feature
+## 📌 Pinned Repos To Feature
 - `axysar` (profile README)
 - `axysar.github.io` (GitHub Pages site)
 - `yugmaxr` (core platform showcase)
@@ -79,7 +93,7 @@ Focused on spatial collaboration workflows, real‑time pipelines, and daily Ind
 
 ---
 
-## Contact
+## 📫 Contact
 - **akshay@akshaysarode.com**
 - **https://akshaysarode.com**
 - **GitHub Pages:** `https://axysar.github.io/`
