@@ -1,16 +1,94 @@
-## Hi there 👋
+<!-- Profile README for github.com/axysar -->
 
+<div align="center">
+
+<!-- Optional banner image: add /assets/banner.jpg in the repo and uncomment the next line -->
+<!-- <img src="assets/banner.jpg" alt="Akshay Sarode banner" width="100%" /> -->
+
+# Akshay Sarode
+### Robotics × XR × Interactive Art · Creative Technologist
+
+I build systems that feel alive — digital twins, WebXR collaboration, computer vision, embedded sensing,
+and performance-driven real-time experiences.
+
+<a href="https://akshaysarode.com" target="_blank"><b>Website</b></a> ·
+<a href="mailto:akshay@akshaysarode.com"><b>Email</b></a> ·
+<a href="https://www.linkedin.com/in/akshay-sarode/"><b>LinkedIn</b></a> ·
+<a href="https://www.instagram.com/akshaysarode/"><b>Instagram</b></a> ·
+<a href="https://x.com/AkshaySaro32394"><b>X</b></a>
+
+<br/>
+
+<img alt="Robotics" src="https://img.shields.io/badge/Robotics-111?style=for-the-badge" />
+<img alt="WebXR" src="https://img.shields.io/badge/WebXR-111?style=for-the-badge" />
+<img alt="Digital Twins" src="https://img.shields.io/badge/Digital%20Twins-111?style=for-the-badge" />
+<img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-111?style=for-the-badge" />
+<img alt="Real-time Systems" src="https://img.shields.io/badge/Real--time%20Systems-111?style=for-the-badge" />
+
+</div>
+
+---
+
+## Robotics precision. XR presence. Interactive experiences.
+Mechanical engineer turned roboticist in Sweden — building **digital twins**, **WebXR collaboration**, **computer vision**, **embedded systems**, and installations that connect **motion, music, and light**.
+
+---
+
+## Selected work — systems you can feel
+- **YugmaXR — Web‑Based XR Platform (2025)**  
+  Full‑featured WebXR collaboration platform for real‑time 3D design review, digital twins, and industrial connectivity.
+
+- **Antaraal Studio — The Swedish Laundry Room (2025)**  
+  Immersive art + music experiment transforming the familiar laundry room into a portal for memory, identity, and reflection.
+
+- **Antaraal Studio — Virtual Production System (2024)**  
+  Real‑time camera tracking using **Unreal Engine 5** + **HTC Vive Tracker** mounted on a physical camera.
+
+- **YugmaXR — AI Factory Layout Planner (2024)**  
+  AI‑powered factory layout optimization integrated into the YugmaXR platform.
+
+- **YugmaXR — WebXR Design Review Room (2024)**  
+  Immersive design review environment for remote team collaboration.
+
+- **Anilata AB — Robotics Software Architecture Toolkit (2024)**  
+  Agent‑based software architecture for flexible manufacturing with role‑based resource allocation.
+
+> Tip: Replace any project title with a link to a repo or case-study page if you have it.
+
+---
+
+## Companies
+- **Anilata AB** — engineering AI/XR consulting
+- **YugmaXR** — web‑based 3D collaboration for design review & digital twins
+- **Antaraal Studio** — interactive experiences
+
+---
+
+## Now
+**Building YugmaXR and learning sitar.**  
+Focused on spatial collaboration workflows, real‑time pipelines, and daily Indian classical music — because systems should have rhythm.
+
+---
+
+## Pinned Repos To Feature
+- `axysar` (profile README + GitHub Pages)
+- `yugmaxr` (core platform showcase)
+- `antaraal-studio` (interactive art and performance work)
+- `anilata-toolkit` (robotics architecture/dev tooling)
+
+---
+
+## Contact
+- **akshay@akshaysarode.com**
+- **https://akshaysarode.com**
+- **GitHub Pages:** `https://axysar.github.io/axysar/`
+
+---
+
+<!-- Optional GitHub stats (uncomment if you want) -->
 <!--
-**axysar/axysar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axysar&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axysar&layout=compact" />
+</div>
 -->
