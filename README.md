@@ -71,7 +71,8 @@ Focused on spatial collaboration workflows, real‑time pipelines, and daily Ind
 ---
 
 ## Pinned Repos To Feature
-- `axysar` (profile README + GitHub Pages)
+- `axysar` (profile README)
+- `axysar.github.io` (GitHub Pages site)
 - `yugmaxr` (core platform showcase)
 - `antaraal-studio` (interactive art and performance work)
 - `anilata-toolkit` (robotics architecture/dev tooling)
@@ -81,7 +82,7 @@ Focused on spatial collaboration workflows, real‑time pipelines, and daily Ind
 ## Contact
 - **akshay@akshaysarode.com**
 - **https://akshaysarode.com**
-- **GitHub Pages:** `https://axysar.github.io/axysar/`
+- **GitHub Pages:** `https://axysar.github.io/`
 
 ---
 
