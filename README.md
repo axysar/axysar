@@ -68,15 +68,10 @@ Mechanical engineer turned roboticist in Sweden — building **digital twins**, 
 
 ---
 
-## 📈 Live GitHub pulse
+## ☁️ 3D Keyword Cloud
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axysar&show_icons=true&hide_title=true&rank_icon=github&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axysar&theme=dark&hide_border=true&background=00000000&ring=58a6ff&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axysar&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f59e0b&area=true&hide_border=true" alt="GitHub activity graph" width="98%" />
+  <img src="assets/keyword-cloud-3d.svg" alt="3D keyword cloud for Akshay Sarode" width="98%" />
 </div>
 
 ---

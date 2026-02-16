@@ -1,0 +1,65 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">3D keyword cloud</title>
+  <desc id="desc">3D-style keyword cloud showing robotics, XR, digital twins, computer vision, and interactive art.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020" />
+      <stop offset="0.52" stop-color="#10283B" />
+      <stop offset="1" stop-color="#2E1C13" />
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9BF9EE" />
+      <stop offset="1" stop-color="#44DCC8" />
+    </linearGradient>
+
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFD3A6" />
+      <stop offset="1" stop-color="#FFAA63" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#4FE4D3" flood-opacity="0.35" />
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="404" rx="28" fill="url(#bg)" />
+  <rect x="8" y="8" width="1184" height="404" rx="28" stroke="rgba(255,255,255,0.2)" />
+
+  <circle cx="170" cy="120" r="82" fill="#50E2D0" fill-opacity="0.08" />
+  <circle cx="1060" cy="290" r="110" fill="#FFB374" fill-opacity="0.08" />
+
+  <g opacity="0.14" stroke="#E8F4FF" stroke-width="1">
+    <path d="M100 328H1100" />
+    <path d="M150 296H1050" />
+    <path d="M200 264H1000" />
+    <path d="M250 232H950" />
+    <path d="M300 200H900" />
+  </g>
+
+  <g transform="translate(600 220) skewX(-16) scale(1 0.9)" style="font-family: 'Avenir Next', 'Trebuchet MS', 'Segoe UI', sans-serif; text-anchor: middle;">
+    <text x="0" y="-72" font-size="60" font-weight="800" letter-spacing="1.2" fill="url(#cyan)" filter="url(#glow)">ROBOTICS</text>
+
+    <text x="-225" y="-16" font-size="44" font-weight="760" fill="#EAFBFF" filter="url(#soft)">WEBXR</text>
+    <text x="214" y="-6" font-size="40" font-weight="760" fill="url(#amber)" filter="url(#soft)">DIGITAL TWINS</text>
+
+    <text x="-325" y="40" font-size="30" font-weight="700" fill="#D4EEFF">COMPUTER VISION</text>
+    <text x="28" y="40" font-size="34" font-weight="740" fill="#EFFFFC">INTERACTIVE ART</text>
+    <text x="312" y="40" font-size="28" font-weight="700" fill="#FFE4C9">REAL-TIME SYSTEMS</text>
+
+    <text x="-254" y="84" font-size="24" font-weight="640" fill="#D7E8FF">SPATIAL COMPUTING</text>
+    <text x="-18" y="84" font-size="27" font-weight="680" fill="#D2FFF7">EMBEDDED SENSING</text>
+    <text x="252" y="84" font-size="24" font-weight="640" fill="#FFD7B3">UNREAL ENGINE 5</text>
+
+    <text x="-286" y="124" font-size="22" font-weight="620" fill="#D6ECFF">YUGMAXR</text>
+    <text x="-98" y="124" font-size="20" font-weight="600" fill="#CDE8FF">ANILATA AB</text>
+    <text x="85" y="124" font-size="20" font-weight="600" fill="#D9FFF8">ANTARAAL STUDIO</text>
+    <text x="292" y="124" font-size="20" font-weight="600" fill="#FFD8BE">DESIGN REVIEW</text>
+  </g>
+</svg>
